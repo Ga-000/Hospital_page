@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/*header*/
+.header{position:absolute; top:0; width:100%;}
+.header .inner{position:relative; height:92px;}
+.header h1{position:absolute; bottom:0; left:0;}
+
+.nav{position:absolute; bottom:20px; right:0;}
+.nav ul{font-size:0;}
+.nav ul li{display:inline-block; margin-left:35px;}
+.nav ul li a{display:block; font-size:18px; font-weight:300; color:#000;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
